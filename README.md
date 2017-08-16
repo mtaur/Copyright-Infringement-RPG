@@ -3,4 +3,4 @@
 
 Open index.html.  See in-game side pannel for further instructions.
 
-https://mtaur.github.io/Copyright-Infringement-RPG/
+https://mtaur.github.io/Copyright-Infringement-RPG/index.html
